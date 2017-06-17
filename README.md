@@ -1,2 +1,2 @@
 # rubiks-timer
-Timing your solves. 
+Organizing your Rubik's Cube solve times. 
